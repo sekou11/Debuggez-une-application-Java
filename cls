@@ -1,0 +1,117 @@
+[33mcommit 9d91410e63c465619daaf5a631c8f25955d1a515[m[33m ([m[1;36mHEAD -> [m[1;32mfeature/lecture_Fichier[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m, [m[1;32mdevelop[m[33m)[m
+Merge: 56155e6 9059b23
+Author: Pascal Fares <pascal.fares@cofares.net>
+Date:   Sat Jul 24 11:51:33 2021 +0300
+
+    Merge branch 'travaildesekou'
+
+[33mcommit 9059b23fe35c607138403bd01f6da5d11ab4c75f[m[33m ([m[1;31morigin/travaildesekou[m[33m)[m
+Author: Pascal Fares <pascal.fares@cofares.net>
+Date:   Sat Jul 24 09:56:54 2021 +0300
+
+    Dernières modifs avec config Eclipse!
+
+[33mcommit 721687e6617447e304ea5682b8e6500be9b44f13[m
+Author: Pascal Fares <pascal.fares@cofares.net>
+Date:   Sat Jul 24 09:18:58 2021 +0300
+
+    ignore les jar
+
+[33mcommit 226d104172da639bef5a77bf739ff6e12e2301bf[m
+Author: Pascal Fares <pascal.fares@cofares.net>
+Date:   Sat Jul 24 09:15:44 2021 +0300
+
+    Fichier de trop
+
+[33mcommit 7009910a160b0c5e41357aa05e9cb96b04408161[m
+Author: Pascal Fares <pascal.fares@cofares.net>
+Date:   Sat Jul 24 08:53:26 2021 +0300
+
+    Doc: Compiler et lancer l'exemple
+
+[33mcommit 914064f6947d88b364442b24b36a20ddfa06d891[m
+Author: Pascal Mentor <pascal.fares@cofares.net>
+Date:   Fri Jul 23 19:58:44 2021 +0300
+
+    Travail sekou + quelques modifs
+
+[33mcommit 6468fee3600d6a6f5f46abbf569ca8fbf5b24b3b[m[33m ([m[1;33mtag: debut[m[33m)[m
+Merge: 56155e6 effe1fb
+Author: Pascal Mentor <pascal.fares@cofares.net>
+Date:   Fri Jul 23 19:07:18 2021 +0300
+
+    Merge branch 'compiler'
+
+[33mcommit effe1fba31a9fb9510b38a6b25633210f2eaf80d[m[33m ([m[1;31morigin/compiler[m[33m)[m
+Author: Pascal Mentor <pascal.fares@cofares.net>
+Date:   Fri Jul 23 19:00:24 2021 +0300
+
+    Le README exlicatif + le gitignore le répertoire bin n'est pas utile dans github
+
+[33mcommit 56155e6ab8137fe06ee93cc7798753460e0face8[m
+Author: Nicopatsch <nicolas.patschkowski@telecom-sudparis.eu>
+Date:   Wed Nov 20 17:37:12 2019 +0100
+
+    Removed unnecessary files
+
+[33mcommit ca01e1d7c1ced2f89ff824751008d42b1e4b106d[m
+Author: HayVThom <39294226+HayVThom@users.noreply.github.com>
+Date:   Fri Aug 23 15:38:19 2019 +0200
+
+    Main.java and Json files for new system
+
+[33mcommit 200f20a65e518a8c50d413a8d7762b701142d568[m
+Author: HayVThom <39294226+HayVThom@users.noreply.github.com>
+Date:   Fri Aug 23 15:37:26 2019 +0200
+
+    Delete New File System -20190823T133555Z-001.zip
+
+[33mcommit de75de930423c59ac78def0344f786b5d51c67b3[m
+Author: HayVThom <39294226+HayVThom@users.noreply.github.com>
+Date:   Fri Aug 23 15:36:43 2019 +0200
+
+    Main & Json files for new system
+
+[33mcommit 969ab87d49f41aa6cbfaaa09fc75bea6be1c5d78[m
+Author: HayVThom <39294226+HayVThom@users.noreply.github.com>
+Date:   Thu Jul 25 10:46:02 2019 +0200
+
+    Unnecessary file
+
+[33mcommit 58172aaa5d13e08a68cc25623b05894a6b5e954a[m
+Author: wolframglen <50589600+wolframglen@users.noreply.github.com>
+Date:   Fri Jun 28 08:17:10 2019 -0700
+
+    Add files via upload
+    
+    These are Caroline's first corrections. They introduce an interface and an implementation for the student to leverage
+
+[33mcommit 3d0757c111275a3083341da1f4dd686933d44db5[m
+Author: wolframglen <50589600+wolframglen@users.noreply.github.com>
+Date:   Fri Jun 28 08:15:34 2019 -0700
+
+    Delete symptoms.in
+
+[33mcommit 546f956680a2d7974e12bb61a51274246f5930d8[m
+Author: wolframglen <50589600+wolframglen@users.noreply.github.com>
+Date:   Fri May 17 06:43:22 2019 -0700
+
+    Inital Baseline Application
+    
+    Code that is poorly written, that needs to be cleaned up
+
+[33mcommit 86b6551f9ca3e62d1f55a43244151b20bfa961be[m
+Author: wolframglen <50589600+wolframglen@users.noreply.github.com>
+Date:   Thu May 16 12:10:27 2019 -0700
+
+    Initial baseline application
+    
+    Requires H2 database (although any db supporting JDBC can be used)
+    org-schema.sql contains the table definition (if filename is schema.sql, it will be run automatically upon spring boot startup, not what we want)
+    Requires MongoDB server to be running
+
+[33mcommit c0c10623009026f0fd9676499f1b4e91d6476208[m
+Author: HayVThom <39294226+HayVThom@users.noreply.github.com>
+Date:   Mon May 13 15:58:44 2019 +0200
+
+    Initial commit
